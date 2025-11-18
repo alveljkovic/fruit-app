@@ -30,8 +30,8 @@ Follow these steps to run the simulation on your local development environment.
 
 1.  **Clone the Repository**
     ```bash
-    git clone git@github.com:alveljkovic/massdata-fruits.git
-    cd massdata-fruits 
+    git clone git@github.com:alveljkovic/fruit-app.git
+    cd fruit-app
     ```
 
 2.  **Install Dependencies**
